@@ -1,0 +1,2 @@
+## This is a practice attempt in practice-repo2 which is buried inside practice-repo where both are local
+* Intent is to see if after practice-repo2 has gone thru git init and git remote add orgin pointing to practice.git - The push will only send practice2.md to GitHub (and not the entire practice-repo2 folder (which happens if practice-repo2 does not go thru its own git init and only practice-repo does))
