@@ -1,0 +1,2 @@
+## This is a practice attempt in practice-repo1 which is buried inside practice-repo where both are local
+* Intent is to see if practice-repo1 has to go thr git init when practice-repo has already done so
